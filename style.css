@@ -194,6 +194,14 @@ footer{
   align-items: center;
   color: #eee;
 
+  .footer-item{
+    display: flex;
+    gap: 20px;
+    font-size: 1.5rem;
+    align-items: center;
+    justify-content: center;
+    color: #eee;
+  }
   
 }
 
